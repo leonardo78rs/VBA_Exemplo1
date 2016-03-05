@@ -1,10 +1,16 @@
 ### VBA_Exemplo1
-Ejemplo de VBA con pantallas , la manipulación de datos , entre otros ( antiguo proyecto ya está en uso no)
 
-Tiene una lógica de control de eventos dentro de un pequeño negocio . Hoy en día es más conveniente hacerlo en un entorno Web , incluso si sólo utilizan la intranet .
+Exemplo VBA com telas, manipulação de dados, entre outros (projeto antigo não mais em uso).
 
-Una de las curiosidades es cómo hacer utilizando sólo VBA ( Excel ), pero con más poderes . Me explico: Los diferentes usuarios , clases y pairo diferentes datos inputam , que pueden ser vistos por todos los grupos o restringidos . Contiene cambios de pantalla y otras propiedades que no se utilizan generalmente en VBA , sino también las aplicaciones web o desktop.
+Lembrando que VBA tem 3 formas básicas: Utilizar macros de auto gravação, programar através de fichas de código e ainda o código interno que fica atrelado aos formulários. Este último caso é mais utilizado quando queremos dar a sensação de que existe um programa dentro da planilha excel. 
 
-No voy a publicar el resultado final , pero cuando el código era ' vida media ' , aún en desarrollo , con el fin de demostrar y compartir .
+Este caso específico conta com uma lógica de controle de eventos dentro de uma pequena empresa. Hoje em dia é mais recomendável fazê-lo em ambiente Web, ainda que se use apenas intranet.
 
-En cuanto a los textos del material publicado , los dejaré en portugués. Cualquier duda o comentario me informo .
+Uma das curiosidades, é como fazer utilizando apenas VBA (excel) porém com mais poderes. Explico: Usuários diferentes, de classes e alçadas diferentes inputam dados, que poderão ser visualizados por todos ou por grupos restritos. Contém mudanças de tela e outras propriedades geralmente não utilizadas em VBA, mas em aplicações Web ou desktop.
+
+Não postarei o resultado final, mas o código quando estava em 'meia-vida', ainda em desenvolvimento, para poder demonstrar e compartilhar.
+
+Quanto aos textos do material postado, vou deixá-los em português. Qualquer dúvida me reporte ou comente. 
+
+
+Leonardo Oliveira.
