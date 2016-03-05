@@ -1,6 +1,4 @@
-# VBA_Exemplo1
-
-# VBA_Exemplo1
+### VBA_Exemplo1
 Ejemplo de VBA con pantallas , la manipulación de datos , entre otros ( antiguo proyecto ya está en uso no)
 
 Tiene una lógica de control de eventos dentro de un pequeño negocio . Hoy en día es más conveniente hacerlo en un entorno Web , incluso si sólo utilizan la intranet .
