@@ -33,14 +33,14 @@ Dim Waux As Worksheet
 Set Waux = Worksheets("AUX")
 
 ComboBox1.AddItem "------"
-ComboBox1.AddItem "Maximo"
-ComboBox1.AddItem "Rita"
-ComboBox1.AddItem "Maria"
-ComboBox1.AddItem "Leonardo"
-ComboBox1.AddItem "Leocir"
-ComboBox1.AddItem "Leandro"
-ComboBox1.AddItem "Jackson"
-ComboBox1.AddItem "Estagiario"
+ComboBox1.AddItem "MAX"
+ComboBox1.AddItem "RIT"
+ComboBox1.AddItem "MAR"
+ComboBox1.AddItem "LMOo"
+ComboBox1.AddItem "LCR"
+ComboBox1.AddItem "LND"
+ComboBox1.AddItem "JKS"
+ComboBox1.AddItem "ETG"
 
 ComboBox1.Text = ComboBox1.List(0)
 ComboBox1.Text = Waux.Cells(4, 3)
