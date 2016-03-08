@@ -99,29 +99,29 @@ End If
 End With
 
 ComboBox4.AddItem "------"
-ComboBox4.AddItem "Maximo"
-ComboBox4.AddItem "Rita"
-ComboBox4.AddItem "Maria"
-ComboBox4.AddItem "Leonardo"
-ComboBox4.AddItem "Leocir"
-ComboBox4.AddItem "Leandro"
-ComboBox4.AddItem "Jackson"
-ComboBox4.AddItem "Estagiario"
+ComboBox4.AddItem "Max"
+ComboBox4.AddItem "Rit"
+ComboBox4.AddItem "Mar"
+ComboBox4.AddItem "Lmo"
+ComboBox4.AddItem "Lcr"
+ComboBox4.AddItem "Ldro"
+ComboBox4.AddItem "Jks"
+ComboBox4.AddItem "Etg"
 
 ComboBox3.AddItem "------"
 ComboBox3.AddItem "CONTABIL"
 ComboBox3.AddItem "FISCAL"
 ComboBox3.AddItem "PESSOAL"
-ComboBox3.AddItem "REPARTIÇÕES"
-ComboBox3.AddItem "DECLARAÇÕES"
+ComboBox3.AddItem "REPARTIÃ‡Ã•ES"
+ComboBox3.AddItem "DECLARAÃ‡Ã•ES"
 ComboBox3.AddItem "INFORMATICA"
 ComboBox3.AddItem "OUTROS"
-ComboBox3.AddItem "COBRANÇA**"
+ComboBox3.AddItem "COBRANÃ‡A**"
 
 End Sub
 
 Private Sub CommandButton2_Click()
-'Botão da data
+'BotÃ£o da data
 If (TextBox2.Value = Empty And TextBox3.Value = Empty) Then
    CheckBox5.Value = False
 Else
@@ -205,7 +205,7 @@ Private Sub CommandButton3_Click()
 With Worksheets("BD")
 
 If Val(TextBox4.Value) = Error Or TextBox4 = Empty Then
-   Frame4.Caption = "Pesquisa Empresa (digite o número)"
+   Frame4.Caption = "Pesquisa Empresa (digite o nÃºmero)"
    TextBox4.Value = Empty
    CheckBox6.Value = False
   Else
@@ -224,9 +224,9 @@ End Sub
 Private Sub ListBox1_Click()
 
 
-'MsgBox (ListBox1.Value) 'dá a linha que está selecionada
-'MsgBox (ListBox1.ListCount) dá a quantidade de linhas
-'MsgBox (ListBox1.ListIndex) 'diz qual o nº da linha atual
+'MsgBox (ListBox1.Value) 'dÃ¡ a linha que estÃ¡ selecionada
+'MsgBox (ListBox1.ListCount) dÃ¡ a quantidade de linhas
+'MsgBox (ListBox1.ListIndex) 'diz qual o nÂº da linha atual
  
 
 
