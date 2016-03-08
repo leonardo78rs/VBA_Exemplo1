@@ -22,7 +22,7 @@ V_QUEMINCLUI = ComboBox1.Value
 Waux.Cells(4, 3) = V_QUEMINCLUI
 
 Unload Me
-UserForm3.Show
+UserForm3.Show 
 
 
 End Sub
