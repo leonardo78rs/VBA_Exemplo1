@@ -10,6 +10,7 @@ Uma das curiosidades, é como fazer utilizando apenas VBA (excel) porém com mai
 
 Não postarei o resultado final, mas o código quando estava em 'meia-vida', ainda em desenvolvimento, para poder demonstrar e compartilhar.
 
+
 Quanto aos textos do material postado, vou deixá-los em português. Qualquer dúvida me reporte ou comente. 
 
 
